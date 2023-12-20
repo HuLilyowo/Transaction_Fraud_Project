@@ -7,7 +7,7 @@ This project aims to capture credit card transaction fraud with a supervised mod
 
 There are 10 fields (2 numerical and 8 categorical) and 96,753 records. Among those, there are 3 fields with missing values or frivolous values. The overall fraudulent rate is 1.095%, which indicates the dataset is imbalanced. 
 
-<b> Feature Description:<\b>
+<b> Feature Description:</b>
 1. Recnum - Number of records (unique index)
 2. Date -  Transaction date
 3. Amount - Transaction amount
